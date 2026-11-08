@@ -47,5 +47,3 @@ The German technology job market has varying skill and qualification requirement
 - **Tableau Public or Streamlit**: Free options
 
 The project will primarily use free and open-source tools. Estimated project cost: €0–€20, excluding optional paid API subscriptions or cloud hosting.
-
-Add project discussion to README
